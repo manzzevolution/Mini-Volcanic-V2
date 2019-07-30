@@ -10,6 +10,7 @@ Inside Transmitter (Reader and Transmitter)
   - Motor Driver (MOSFET Module)
   - Power Bank Casing + Charger Controller
   - Li-Po Pouch 3.7V - 10000mAh
+
 Inside Receiver (Receiver and Uploader)
   - Arduino Nano
   - WeMos D1 Mini
